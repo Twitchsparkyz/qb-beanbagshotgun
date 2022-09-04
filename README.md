@@ -28,7 +28,7 @@ Add to qb-weapons/config.lua at Config.DurabilityMultiplier
     ['weapon_beangbagshotgun'] 		= 0.0,
 ```
 
-Add to qb-weapons/config.lau at Config.WeaponRepairCosts
+Add to qb-weapons/config.lau at WeaponAttachments
 
 ```
     ['WEAPON_PAINTBALL'] = {
