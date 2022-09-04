@@ -232,17 +232,6 @@
 					<KnockdownCount value="-1"/>
 					<KillshotImpulseScale value="1.000000"/>
 					<NmShotTuningSet>Shotgun</NmShotTuningSet>
-					<AttachPoints>
-						<Item>
-							<AttachBone>WAPSupp</AttachBone>
-							<Components>
-								<Item>
-									<Default value="true"/>
-									<Name>COMPONENT_AT_SR_SUPP</Name>
-								</Item>
-							</Components>
-						</Item>
-					</AttachPoints>
 					<GunFeedBone/>
 					<TargetSequenceGroup/>
 					<WeaponFlags>CarriedInHand ApplyBulletForce Gun CanLockonOnFoot CanLockonInVehicle CanFreeAim TwoHanded AnimReload AnimCrouchFire UsableOnFoot UsableInCover NoLeftHandIKWhenBlocked AllowCloseQuarterKills NeedsGunCockingInCover HasLowCoverReloads HasLowCoverSwaps ProcessGripAnim TorsoIKForWeaponBlock LongWeapon UseFPSAimIK UseFPSSecondaryMotion</WeaponFlags>
