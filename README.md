@@ -1,5 +1,5 @@
-# PAINTBALL-WEAPON
-Addon paintball weapon to use with mt-paintball to QBCore
+# Bean Bag Shotgun
+Addon bean bag shotgun to use with qbcore
 
 # Installation:
 Add to qb-core/shared/weapons.lua
