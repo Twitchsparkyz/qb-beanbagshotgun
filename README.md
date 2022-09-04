@@ -12,7 +12,7 @@ Add to qb-core/shared/weapons.lua
 Add to qb-core/shared/items.lua
 
 ```
-	['weapon_beanbagshotgun'] 			 = {['name'] = 'weapon_beanbagshotgun', 		 	  	['label'] = 'Non-Lethal Shotgun', 			    ['weight'] = 1000, 		['type'] = 'weapon', 	['ammotype'] = 'AMMO_PISTOL',			['image'] = 'weapon_beanbagshotgun.png', 		['unique'] = true, 		['useable'] = false, 	['description'] = 'A Non-lethal version of the Remington 870'},
+	['weapon_beanbagshotgun'] 			 = {['name'] = 'weapon_beanbagshotgun', 		 	  	['label'] = 'Non-Lethal Shotgun', 			    ['weight'] = 1000, 		['type'] = 'weapon', 	['ammotype'] = 'AMMO_SHOTGUN',			['image'] = 'weapon_beanbagshotgun.png', 		['unique'] = true, 		['useable'] = false, 	['description'] = 'A Non-lethal version of the Remington 870'},
 ```
 
 Add to qb-smallresources/client/weapondraw.lua
