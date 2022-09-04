@@ -5,7 +5,7 @@ Addon bean bag shotgun to use with qbcore
 Add to qb-core/shared/weapons.lua
 
 ```
-[`weapon_beanbagshotgun`]					= {['name'] = 'weapon_beanbagshotgun',				['label'] = 'Non-Lethal Shotgun',						['ammotype'] = nil,						['damagereason'] = 'Hit by a bean bag'},
+[`weapon_beanbagshotgun`]					= {['name'] = 'weapon_beanbagshotgun',				['label'] = 'Non-Lethal Shotgun',						['ammotype'] = 'AMMO_SHOTGUN',						['damagereason'] = 'Hit by a bean bag'},
   
 ```
 
