@@ -31,7 +31,7 @@ Add to qb-weapons/config.lua at Config.DurabilityMultiplier
 Add to qb-weapons/config.lau at WeaponAttachments
 
 ```
-    ['WEAPON_PAINTBALL'] = {
+    ['WEAPON_BEANBAGSHOTGUN'] = {
         ['defaultclip'] = {
             component = 'COMPONENT_BEANBAGSHOTGUN_CLIP_01',
             item = 'pumpshotgun_defaultclip',
