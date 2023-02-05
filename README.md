@@ -25,7 +25,7 @@ Add to qb-smallresources/client/weapondraw.lua
 Add to qb-weapons/config.lua at Config.DurabilityMultiplier
 
 ```
-    ['weapon_beangbagshotgun'] 		= 0.0,
+    ['weapon_beanbagshotgun'] 		= 0.0,
 ```
 
 Add to qb-weapons/config.lau at WeaponAttachments
