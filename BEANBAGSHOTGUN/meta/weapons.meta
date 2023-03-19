@@ -19,7 +19,7 @@
 					<Model>w_sg_beanbagshotgun</Model>
 					<Audio>AUDIO_ITEM_PUMPSHOTGUN</Audio>
 					<Slot>SLOT_WEAPON_BEANBAGSHOTGUN</Slot>
-					<DamageType>BULLET</DamageType>
+					<DamageType>ELECTRIC</DamageType>
 					<Explosion>
 						<Default>DONTCARE</Default>
 						<HitCar>DONTCARE</HitCar>
