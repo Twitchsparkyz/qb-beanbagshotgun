@@ -23,6 +23,7 @@ Add to qb-weapons/config.lua at Config.DurabilityMultiplier
     ['weapon_beanbagshotgun'] 		= 0.0,
 ```
 
+```
 Add to qb-weapons/config.lau at WeaponAttachments
 
 ```
