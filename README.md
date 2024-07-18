@@ -14,8 +14,6 @@ Add to qb-core/shared/items.lua
 ```
 	['weapon_beanbagshotgun'] 			 = {['name'] = 'weapon_beanbagshotgun', 		 	  	['label'] = 'Non-Lethal Shotgun', 			    ['weight'] = 1000, 		['type'] = 'weapon', 	['ammotype'] = 'AMMO_SHOTGUN',			['image'] = 'weapon_beanbagshotgun.png', 		['unique'] = true, 		['useable'] = false, 	['description'] = 'A Non-lethal version of the Remington 870'},
 ```
-  
-```
 
 Add to qb-weapons/config.lua at Config.DurabilityMultiplier
 
@@ -23,7 +21,6 @@ Add to qb-weapons/config.lua at Config.DurabilityMultiplier
     ['weapon_beanbagshotgun'] 		= 0.0,
 ```
 
-```
 Add to qb-weapons/config.lau at WeaponAttachments
 
 ```
