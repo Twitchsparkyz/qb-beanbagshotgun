@@ -14,11 +14,6 @@ Add to qb-core/shared/items.lua
 ```
 	['weapon_beanbagshotgun'] 			 = {['name'] = 'weapon_beanbagshotgun', 		 	  	['label'] = 'Non-Lethal Shotgun', 			    ['weight'] = 1000, 		['type'] = 'weapon', 	['ammotype'] = 'AMMO_SHOTGUN',			['image'] = 'weapon_beanbagshotgun.png', 		['unique'] = true, 		['useable'] = false, 	['description'] = 'A Non-lethal version of the Remington 870'},
 ```
-
-Add to qb-smallresources/client/weapondraw.lua
-
-```
-	'WEAPON_BEANBAGSHOTGUN',
   
 ```
 
@@ -44,12 +39,6 @@ Add to qb-ambulancejob/config.lua
 
 ```
     [`WEAPON_BEANGBAGSHOTGUN`] = Config.WeaponClasses['NONE'],
-```
-
-Add to qb-smallresources/client/recoil.lua
-
-```
-[GetHashKey("weapon_beanbagshotgun")] = 0.0,
 ```
 
 Add this image to qb-inventory/html/images with name: weapon_beanbagshotgun.png
